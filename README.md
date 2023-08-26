@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhhmaple or mai huy hoàng
+- 👋 Hi, I’m @mhhmaple
 - 👀 I’m interested in code and game
 - 🌱 I’m currently learning at American Polytechnic College (APC)
 
